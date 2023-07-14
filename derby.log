@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 23 09:50:21 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0183-6ad3-fb73-000007811db0 
+on database directory /Users/alexreichel/Downloads/COP4027/Project01/p1Import/myDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@446cdf90 
+Loaded from file:/Users/alexreichel/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=/Users/alexreichel/Downloads/COP4027/Project01/p1Import
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
